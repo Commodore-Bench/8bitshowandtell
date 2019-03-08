@@ -16,13 +16,12 @@ second.asm rotates the screen color in the opposite direction as the border<br /
 <br />
 <br />
 <br />
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br />
-!! WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING !!<br />
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br />
-!!    IF RAN THIS CODE WILL CREATE RAPIDLY FLASHING AND CHANGING COLORS    !!<br />
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br />
-!! WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING !!<br />
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br />
+**WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING**<br />
+<br />
+**IF RAN THIS CODE WILL CREATE RAPIDLY FLASHING AND CHANGING COLORS**<br />
+<br />
+**WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING**<br />
+<br />
 <br />
 <br />
 <br />
