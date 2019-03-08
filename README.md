@@ -3,7 +3,7 @@
 
 ***
 
-Episode 5 - the Random SID generator
+Episode 5 - the Random SID generator<br />
 Episode 7 - Introduction to Assembly
 
 ***
