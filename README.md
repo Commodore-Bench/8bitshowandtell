@@ -4,8 +4,9 @@
 ***
 
 Episode 5 - the Random SID generator<br />
-Episode 7 - Introduction to Assembly
-
+Episode 7 - Introduction to Assembly<br />
+Episode 8 - More 6510 Commodore 64 Programming with Turbo Macro Pro<br />
+Episode 9 - Commodore 64 Game Programming: Keeping Score<br />
 ***
 
 **Tools used for these**<br />
