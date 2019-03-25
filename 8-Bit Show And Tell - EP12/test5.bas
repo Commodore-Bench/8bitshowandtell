@@ -1,5 +1,5 @@
  1 rem ------------------------------------------------------------------------------
- 2 rem 8-Bit Show And Tell - Episode 11
+ 2 rem 8-Bit Show And Tell - Episode 12
  3 rem 
  4 rem Video URL: https://www.youtube.com/watch?v=wo14rDnGUbY
  5 rem ------------------------------------------------------------------------------

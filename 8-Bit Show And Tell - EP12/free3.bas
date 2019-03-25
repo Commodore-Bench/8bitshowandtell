@@ -1,14 +1,19 @@
  1 rem ------------------------------------------------------------------------------
- 2 rem 8-Bit Show And Tell - Episode 11
+ 2 rem 8-Bit Show And Tell - Episode 12
  3 rem 
  4 rem Video URL: https://www.youtube.com/watch?v=wo14rDnGUbY
  5 rem ------------------------------------------------------------------------------
- 6 rem exploring integer optimizations - test1.bas
+ 6 rem exploring integer optimizations - free3.bas
  7 rem THIS IS AN UNOFFICIAL RECREATION OF THE CODE
  8 rem By User DuckyVirus.  It is not endorsed or affiliated with 8-Bit Show And Tell
  9 rem ------------------------------------------------------------------------------
-10 TI$="000000"
-20 FOR I = 1 TO 1000
-30 X=X+1
-40 NEXT
-50 PRINTTI;X
+10 DEF FN FR(X)=FRE(0)-65536*(FRE(0)<0)
+20 R1=0:R2=0
+30 R1=FN FR(0)
+35 :
+40 A=5:B=6:C=7
+45 :
+50 R2=FN FR(0)
+60 PRINTR1-R2
+
+
