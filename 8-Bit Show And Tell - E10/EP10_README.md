@@ -7,7 +7,7 @@
 ***
 
 This is the code from the animated directory example<br />
-This is stored as a .D64 because some of the data in the BASIC program cannot be>br />
+This is stored as a .D64 because some of the data in the BASIC program cannot be<br />
 recreated outside the C64 / emulator.  the disk contains the code Robin generated.<br />
 **CREATE.BAS** which can be loaded using **load "create.bas",8**<br />
 doing a list on the directory shows more or less the effect that it was meant to create.<br />
