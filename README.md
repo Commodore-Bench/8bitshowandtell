@@ -10,6 +10,7 @@ Episode  9 - Commodore 64 Game Programming: Keeping Score<br />
 Episode 10 - How Animated Commodore 64 Disk Directories Work<br />
 Episode 12 - Optimizing with Integers in Commodore 64 Basic<br />
 Episode 13 - Benchmark By Guitar Tuner? More Commodore 64 BASIC Optimization Tricks<br />
+Episode 15 - Even More Commodore 64 BASIC Optimizations <br />
 ***
 
 **Tools used for these**<br />
